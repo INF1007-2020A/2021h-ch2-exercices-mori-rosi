@@ -2,7 +2,10 @@
 # -*- coding: utf-8 -*-
 def majuscule(mot):
     # TODO completer la fonction ici
+x=0
+
     return mot
+
 
 
 if __name__ == '__main__':
